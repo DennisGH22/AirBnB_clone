@@ -6,8 +6,6 @@
 	border-radius: 4px;
 	display: flex;
 	align-items: center;
-	top: 0;
-	bottom: 0;
 }
 
 .filters button {
@@ -94,9 +92,9 @@ ul {
 }
 
 .amenities .popover li {
-	margin-inline-start: -10;
+	margin-inline-start: -10px;
 }
 
 .amenities .popover h2 {
-	margin-inline-start: 0;
+	margin-inline-start: 0px;
 }
